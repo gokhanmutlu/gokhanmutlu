@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gökhan Mutlu</h1>
-<h3 align="center">- **Muğla Sıtkı Koçman University** I graduated as the top student from Computer Engineering Department</h3>
+<h3 align="center">- Muğla Sıtkı Koçman University I graduated as the top student from Computer Engineering Department</h3>
 
 - 🔭 I’m currently working on **Covid-19 Analys**
 
