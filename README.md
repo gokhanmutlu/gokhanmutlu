@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gökhan Mutlu</h1>
 <h3 align="center">- Muğla Sıtkı Koçman University I graduated as the top student from Computer Engineering Department, a computer engineer passionate about data science and data analysis.</h3>
 
-- 🔭 I’m currently working on **Covid-19 Analys**
 
-- 🌱 I’m currently learning **Tableau, Power BI, Excell, Amazon Web Services**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
